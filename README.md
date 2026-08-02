@@ -1,112 +1,33 @@
-<!-- ================= HERO ================= -->
+# Hi 👋, I'm ASHWIN07026
 
-<div align="center">
+🔭 I'm currently working on **AI Resume Screener, Student Project Management System, and AI-powered web applications.**
 
-<picture>
+👯 I'm looking to collaborate on **AI & Machine Learning Projects, Open Source Contributions, and Full Stack Web Development Projects.**
 
-<source media="(prefers-color-scheme: dark)" 
-srcset="./assets/banner-dark.svg">
+🤝 I'm looking for help with **MLOps, Cloud Architecture, Large Language Models (LLMs), and System Design.**
 
-<source media="(prefers-color-scheme: light)" 
-srcset="./assets/banner-light.svg">
+🌱 I'm currently learning **AWS Cloud, Generative AI, Large Language Models (LLMs), Advanced React, and Backend Development.**
 
-<img src="./assets/banner-light.svg">
+💬 Ask me about **Python, Java, React, MySQL, Artificial Intelligence, Machine Learning, and Full Stack Development.**
 
-</picture>
+⚡ Fun fact **I enjoy learning new technologies by building real-world projects and solving coding challenges every day.**
 
-</div>
+## 🌐 Connect with me:
+[LinkedIn](https://linkedin.com/in/ashwin-s-650b48329) | [Twitter](https://twitter.com/https://x.com/sad_ash28657)
 
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c++&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=azure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=vscode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
 
-<h1 align="center">
-Hi 👋, I'm Ashwin S
-</h1>
+## 📊 GitHub Stats:
+![ASHWIN07026'sGitHubstats](https://github-stats-alpha.vercel.app/api?username=ASHWIN07026&cc=0d1117&tc=c9d1d9&ic=58a6ff&bc=30363d)![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ASHWIN07026&theme=dark&hide_border=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=ASHWIN07026&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="center">
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-AI & Data Science Student | Full Stack Developer | AI Enthusiast
+## 👁️ Profile Views
+![](https://komarev.com/ghpvc/?username=ASHWIN07026&style=for-the-badge&color=blue)
 
-</h3>
-
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=700&lines=Artificial+Intelligence+Student;Full+Stack+Developer;Machine+Learning+Explorer;Generative+AI+Learner;AWS+Cloud+Enthusiast">
-
-</p>
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ASHWIN07026&style=for-the-badge&color=22D3EE">
-
-</p>
-
-
----
-
-# 👨‍💻 About Me
-
-
-```yaml
-Name: Ashwin S
-
-Education:
-  B.Tech Artificial Intelligence & Data Science
-
-Role:
-  - Full Stack Developer
-  - AI/ML Enthusiast
-  - Generative AI Explorer
-
-Location:
-  Tamil Nadu, India
-
-Mission:
-  Building AI-Powered Solutions For Real World Problems
-🛠 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,mysql,html,css,git,github,aws,vscode&perline=6"> </div>
-📊 GitHub Analytics
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ASHWIN07026&show_icons=true&theme=tokyonight&hide_border=true">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASHWIN07026&layout=compact&theme=tokyonight&hide_border=true">
-
-</div> <br> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHWIN07026&theme=tokyonight&hide_border=true"> </div>
-🏆 GitHub Trophy
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ASHWIN07026&theme=tokyonight&no-frame=true"> </div>
-🚀 Featured Projects
-Project	Description
-🤖 AI Resume Screener	AI-powered resume analysis platform
-🧠 ResumeAI Pro	AI resume improvement system
-🎓 Student Project Management System	Full stack project management platform
-🛒 E-Commerce Web App	Modern shopping application
-🌐 Portfolio Website	Personal developer portfolio
-🌦 Weather App	Real-time weather application
-🏅 Achievements
-⭐ HackerRank SQL Silver Badge
-🚀 Hackathon Participant
-🤖 AI/ML Projects
-💻 Full Stack Development Projects
-🎓 Final-Year AI & Data Science Student
-💻 Competitive Programming
-<div align="center"> <a href="https://leetcode.com/u/ashwin-s-v/"> <img src="https://img.shields.io/badge/LeetCode-Ashwin%20S-orange?style=for-the-badge&logo=leetcode"> </a> <a href="https://www.hackerrank.com/profile/aa4674904"> <img src="https://img.shields.io/badge/HackerRank-Ashwin%20S-green?style=for-the-badge&logo=hackerrank"> </a> </div>
-📚 Currently Learning
-🤖 Large Language Models
-
-🔎 Retrieval Augmented Generation
-
-⚙ MLOps
-
-☁ AWS Cloud
-
-🧠 Generative AI
-
-🐍 Contribution Snake
-<div align="center"> <img src="https://raw.githubusercontent.com/ASHWIN07026/ASHWIN07026/output/snake-dark.svg"> </div>
-🌐 Connect With Me
-<div align="center"> <a href="https://github.com/ASHWIN07026"> <img src="https://img.shields.io/badge/GitHub-ASHWIN07026-black?style=for-the-badge&logo=github"> </a> <a href="https://www.linkedin.com/in/ashwin-s-650b48329"> <img src="https://img.shields.io/badge/LinkedIn-Ashwin-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://ashwinweb-dev.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel"> </a> </div>
-<div align="center">
-🚀 Building The Future With AI
-</div> ```
+<!-- Proudly created with GitHub Profile README Generator 🚀 -->
